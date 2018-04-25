@@ -12,4 +12,6 @@
 
 (require 'init-company-mod)
 
+(require 'init-rust)
+
 (Provide 'init)
